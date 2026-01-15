@@ -1,4 +1,4 @@
-<img width="856" height="839" alt="image" src="https://github.com/user-attachments/assets/1f0f0709-b834-4b95-9b74-6de04b50c797" /><img width="1060" height="980" alt="image" src="https://github.com/user-attachments/assets/0518dfa0-f260-451e-88ed-19de3ccee617" /># ATmega16-DoAn2
+# ATmega16-DoAn2
 Final Project 2
 
 Hệ thống giám sát môi trường sử dụng ATmega16. Đo nhiệt độ, độ ẩm (DHT11) và chất lượng không khí (MQ-135), hiển thị LCD và điều khiển LED đa nhiệm.
