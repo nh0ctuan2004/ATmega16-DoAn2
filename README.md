@@ -7,8 +7,8 @@ Sơ đồ nối chân với cảm biến:
 
 <img width="984" height="655" alt="image" src="https://github.com/user-attachments/assets/6109a0e2-9d30-4915-bb91-4dd5136b7250" />
 
-- Sơ đồ mạch được trường phát:
-- 
+- Sơ đồ mạch:
+
 <img width="738" height="646" alt="image" src="https://github.com/user-attachments/assets/f78e9322-bb3a-45f2-b88c-82545ae5adf5" />
 
 - Hình ảnh mạch:
